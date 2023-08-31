@@ -1,4 +1,4 @@
-4. Statistics
+Statistics
 Descriptive Statistics: Mean, Median, Mode, Variance, etc.
 Inferential Statistics: Making predictions from data.
 Hypothesis Testing: Deciding between alternatives based on data.
