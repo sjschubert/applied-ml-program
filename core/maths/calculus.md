@@ -1,0 +1,11 @@
+# Calculus for Machine Learning
+
+This documents provides covers the topics in Calculus that are needed to formulate the elementary mathematical framework for machine learning. Calculus is fundamental to  optimization and is a critical component of machine learning. Gradient descent and its variants, such as stochastic gradient descent, Adam, and RMSProp, rely heavily on derivatives and integrals to minimize the loss function.
+
+## Topics
+- Limits: The concept of limits is fundamental to calculus and is used extensively in machine learning. It involves determining the behavior of a function as the input (or independent variable) approaches a certain value. In machine learning, limits are used to define the convergence properties of algorithms, such as the convergence rate of gradient descent.
+- Continuity: Continuity is another important concept in calculus that is used in machine learning. A continuous function is one whose graph can be drawn without lifting the pencil from the paper. In machine learning, continuity is important for ensuring that optimization algorithms converge to a single solution, rather than oscillating between multiple solutions.
+- Derivatives: Derivatives are used extensively in machine learning to optimize functions. The derivative of a function represents the rate at which the function changes with respect to its input. In machine learning, derivatives are used to compute gradients, which are then used to update model parameters during training. The chain rule, which is a fundamental property of derivatives, allows us to compute gradients of composite functions, which is essential for training neural networks.
+- Integrals: Integrals are used in machine learning to compute quantities such as expected values, variance, and entropy. These quantities are used in various machine learning algorithms, such as Gaussian processes, Bayesian inference, and variational inference.
+- Multivariable calculus: Multivariable calculus / partial differentiation is used in machine learning to optimize functions of multiple variables. This is particularly useful in deep learning, where neural networks have many inputs and outputs.
+- Vector Calculus: Understanding vector fields, gradients, and directional derivatives.
