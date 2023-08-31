@@ -4,7 +4,7 @@ Machine learning heavily utilizes linear algebra, particularly in the areas of n
 
 ## Topics
 - System of Linear Equations: A system of linear equations is a collection of two or more linear equations that must be solved simultaneously. The goal is to find the values of the variables that satisfy all the equations in the system.
-- Matrix Operations: Addition, subtraction, multiplication, row/ coulmn operations, transpose, factorization, determinants, inverses
+- Matrix Operations: Addition, subtraction, multiplication, row/ coulmn operations, transpose, factorization, determinants, inverses, norms
 - Matrix Decomposition -  Principal Component Analysis, Singular Value Decomposition, Linear Discriminant Analysis, Non-negative Matrix Factorization, t-SNE
 - Eigenvalues / Eigenvectors: Eigenvalues and eigenvectors are concepts from linear algebra that are used to understand the behavior of linear transformations and matrices.
 - Vector Spaces: Vector spaces are used to represent feature spaces, where data points are represented as vectors.

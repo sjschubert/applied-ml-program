@@ -6,6 +6,8 @@ This document is a prelimnary definition of a curriculum to support development 
 This document serves as an outline for a two-year curriculum with an example schedule, noting prerequesities and summarizing educational content.
 
 Note: Students who already have taken Calculus / Linear Algebra / Probability & Statistics are in a much better position to handle the schedule.
+
+
 ## Year 1
 
 Provides an introudction to machine learning, with a focus on neural networks. Students will cover the foundational mathematics needed to work with and understand model development, and conclude the year focusing on end to end training.
@@ -23,6 +25,10 @@ This semester introduces machine learning, learning tasks, models, model selecti
 #### [Linear Algebra for ML](./core/maths/linear-algebra.md)
 - Topics: Systems of linear equations, Matrix operations, Inverses and Determinants, Eigenvalues / Eigenvectors, Matrix Decomposition, SVD, PCA, LDA
 - Prerequisites: Math placement
+
+#### [Programming Frameworks for ML](./core/foundations/programming.md)
+- Topics: Programming languages commonly used, current state-of-the-art frameworks for machine learning.
+- Prerequisites: None
 
 ### Semester 2
 
@@ -47,8 +53,8 @@ This semester focuses on a survey of deep learning and its applications, advance
 #### [Deep Learning](./core/foundations/deep-nets.md)
 - Topics: CNNs, RNNs, Deep RL/HRL, Transformers & LLMs, AutoEncoders, GANs
 - Prerequisites: Intro to Neural Nets, Training End-to-End, Calc, Linear Algebra, Probability & Stats
-#### [Advanced Techniques and Special Topics](./core/foundations/deep-nets.md)
-- Topics: Transfer Learning, Fine-Tuning, Hyper Parameter tuning
+#### [Advanced Techniques and Special Topics](./core/foundations/advanced.md)
+- Topics: Transfer Learning, Fine-Tuning, Hyper Parameter tuning, Optimizers
 - Prerequisites: Calculus, Linear Algebra, Probability & Stats, Intro to Neural Nets, Training End-to-End
 #### [Systems Engineering for ML](./core/foundations/systems.md)
 - Topics: GPU/TPU acceleration, distributed training, cloud platforms, large datasets, data / model parallelism, MLOps, Versioning, Inference on Edge / constrained compute.
