@@ -47,8 +47,8 @@ This semester focuses on a survey of deep learning and its applications, advance
 #### [Deep Learning](./core/foundations/deep-nets.md)
 - Topics: CNNs, RNNs, Deep RL/HRL, Transformers & LLMs, AutoEncoders, GANs
 - Prerequisites: Intro to Neural Nets, Training End-to-End, Calc, Linear Algebra, Probability & Stats
-#### [Advanced Techniques and Special Topics](./core/foundations/deep-nets.md)
-- Topics: Transfer Learning, Fine-Tuning, Hyper Parameter tuning
+#### [Advanced Techniques and Special Topics](./core/foundations/advanced.md)
+- Topics: Transfer Learning, Fine-Tuning, Hyper Parameter tuning, Optimizers
 - Prerequisites: Calculus, Linear Algebra, Probability & Stats, Intro to Neural Nets, Training End-to-End
 #### [Systems Engineering for ML](./core/foundations/systems.md)
 - Topics: GPU/TPU acceleration, distributed training, cloud platforms, large datasets, data / model parallelism, MLOps, Versioning, Inference on Edge / constrained compute.

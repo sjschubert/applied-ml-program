@@ -1,3 +1,8 @@
+
+
+
+# Optimization
+
 Combinatorial Optimization: Relevant in tasks like feature selection and network design.
 Convex Optimization: Widely used in machine learning for ensuring global optima.
 Stochastic Optimization: Includes methods like stochastic gradient descent, which is essential in training large-scale models.

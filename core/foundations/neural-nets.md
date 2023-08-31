@@ -2,12 +2,9 @@
 
 Neural networks are powerful machine learning models inspired by the structure and function of the human brain. They consist of interconnected nodes (neurons) that process inputs, learn from data, and make predictions or decisions.
 
-
-### Basics of Neural Networks and Deep Learning Foundations
-
-#### 1. Introduction to Neural Networks
-- **What is a Neuron?**: Biological inspiration and the artificial counterpart.
-- **Perceptrons**: The simplest neural network unit.
+## 1. Introduction to Neural Networks
+- What is a Neuron: Biological inspiration and the artificial counterpart.
+- **Perceptrons: The simplest neural network unit.
 - **Activation Functions**: Understanding step, sigmoid, ReLU, tanh, and other functions.
 
 #### 2. Feed-Forward Neural Networks
