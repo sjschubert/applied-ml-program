@@ -4,86 +4,65 @@
 # Curriculum Outline
 This document is a prelimnary definition of a curriculum to support development of a applied machine learning degree with a focus on engineering vs theory.
 
-## Introduction
-
-This document serves as a structured outline for the four-year curriculum, focusing on the core subjects. Each section below provides an overview of these subjects, outlining educational content, activities, and assessments by year.
+This document serves as a structured outline for the three-year curriculum, focusing on the core subjects. Each section below provides an overview of these subjects, outlining educational content, activities, and assessments by year.
 
 ## Year 1
 
-### Overview
+Covers the foundational mathematics needed to work with and understand the process of training models.
 
-TBD
+### Semester 1
 
-### Subjects
+This semester introduces learning tasks, models, and aligning a model selection, in addition to the foundational areas of mathematics for ML.
 
-- TDB
+#### Intro to Machine Learning
+- Topics: High-level coverage of types of learning tasks (supervised, unsupervised, etc.), types of models (neural networks, decision trees, regression, etc.), and introduction to model selection.
+- Prerequisites: None
+#### Calculus I
+  - Prerequisites: High school Algebra / Trig
+#### Linear Algebra 1
+  - Prerequisites: High school Algebra / Trig
 
-### Assessments
+### Semester 2
 
-- TBD
+This semester continues the mathematical foundations for ML, and introduces students to all apsects of training models end to end.
 
----
+#### Training Models End-to-End
+   - Topics: Framing, Problem Structuring, Data Handling, Preprocessing, and Performance Metrics.  Models are still treated as a black box.
+   - Prerequisites: Intro to Machine Learning
+#### Calc II
+   - Prerequisites: Calc I
+#### Linear Algebra 2
+   - Prerequisites: Linear Algebra 1
+#### Introduction to Neural Network
+   - Prerequisites: Calculus for Machine Learning, Linear Algebra 1 for ML, Intro to ML
 
 ## Year 2
 
-### Overview
+### Semester 1
 
-The second year builds on the foundational skills and starts introducing more specialized subjects.
+1. **Deep Learning Foundations(CNNs, RNNs, Transformers)**
+   - Prerequisites: Introduction to Neural Networks, Probability and Statistics 1 for ML
 
-### Subjects
+4. **Probability & Stats for ML**
+   - Prerequisites: Calc 1
 
-- Mathematics: Algebra
-- Language Arts: Literature Studies
-- Science: Earth Science
+4. **Systems Engineering for ML**
+   - Prerequisites: Introduction to Neural Networks
 
-### Assessments
+2. **Optimization for ML**
+   - Prerequisites: Calculus I, Linear Algebra I
 
-- Midterm Exam
-- Final Exam
-- Project: "Creating a Short Story"
+#### Semester 2
 
----
+1. **Interdisciplinary Applications**
+   - Healthcare, Finance, Smart Cities, IoT, Robotics
+   - Note: this can be taken as a cross over course from other programs
+   - Prerequisites: Deep Learning Foundations
+2. **Advanced Neural Networks and Special Topics(e.g, Transfer leanring, fine tuning)**
+   - Prerequisites:  Deep Learning Foundations / Systems Engineering 1 for ML
+3. **Capstone Project Industry Internship**
+   - Prerequisites: At least one foundational course and one systems engineering course
+4. **Ethics and Societal Impacts**
+   - Prerequisites: Intro to Machine Learning
 
-## Year 3
 
-### Overview
-
-The third year introduces students to advanced topics in preparation for specialized high-school courses.
-
-### Subjects
-
-- Mathematics: Geometry
-- Language Arts: Advanced Writing
-- Science: Basic Physics
-
-### Assessments
-
-- Midterm Exam
-- Final Exam
-- Project: "Building a Simple Machine"
-
----
-
-## Year 4
-
-### Overview
-
-The fourth year prepares students for graduation and further educational or career pursuits.
-
-### Subjects
-
-- Mathematics: Trigonometry
-- Language Arts: Research Papers
-- Science: Chemistry
-
-### Assessments
-
-- Midterm Exam
-- Final Exam
-- Capstone Project
-
----
-
-## Conclusion
-
-This curriculum outline serves as a guide for the four-year educational journey. The aim is to equip students with the necessary skills and knowledge to succeed in their future endeavors.

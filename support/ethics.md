@@ -1,7 +1,7 @@
 
 # Introduction
 
-Ethics
+Ethics and Societal Impact
 
 ## Objectives
 - Bias and fairness in machine learning models
